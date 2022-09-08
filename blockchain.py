@@ -3,7 +3,7 @@ from block import Block
 
 
 class Blockchain:
-    # initializing a blockchain with only the genesis block
+    # initializes a blockchain with only the genesis block
     def __init__(self):
         self.chain = []
         self.all_transactions = []
