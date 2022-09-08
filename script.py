@@ -2,7 +2,6 @@ from blockchain import Blockchain
 
 
 # The blockchain I have built only exists on a local machine
-
 # It is important to know that actual blockchain applications
 # operate on multiple computers in a decentralized manner
 
