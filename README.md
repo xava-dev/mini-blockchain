@@ -1,4 +1,4 @@
-# Local Blockchain
+# Mini Blockchain
 
 	1 - Run script.py
 	2 - All blocks of the blockchain will be printed out
